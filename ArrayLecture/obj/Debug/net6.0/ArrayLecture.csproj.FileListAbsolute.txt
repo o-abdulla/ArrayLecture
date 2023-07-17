@@ -1,0 +1,15 @@
+C:\Users\osabd\source\repos\ArrayLecture\ArrayLecture\bin\Debug\net6.0\ArrayLecture.exe
+C:\Users\osabd\source\repos\ArrayLecture\ArrayLecture\bin\Debug\net6.0\ArrayLecture.deps.json
+C:\Users\osabd\source\repos\ArrayLecture\ArrayLecture\bin\Debug\net6.0\ArrayLecture.runtimeconfig.json
+C:\Users\osabd\source\repos\ArrayLecture\ArrayLecture\bin\Debug\net6.0\ArrayLecture.dll
+C:\Users\osabd\source\repos\ArrayLecture\ArrayLecture\bin\Debug\net6.0\ArrayLecture.pdb
+C:\Users\osabd\source\repos\ArrayLecture\ArrayLecture\obj\Debug\net6.0\ArrayLecture.csproj.AssemblyReference.cache
+C:\Users\osabd\source\repos\ArrayLecture\ArrayLecture\obj\Debug\net6.0\ArrayLecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osabd\source\repos\ArrayLecture\ArrayLecture\obj\Debug\net6.0\ArrayLecture.AssemblyInfoInputs.cache
+C:\Users\osabd\source\repos\ArrayLecture\ArrayLecture\obj\Debug\net6.0\ArrayLecture.AssemblyInfo.cs
+C:\Users\osabd\source\repos\ArrayLecture\ArrayLecture\obj\Debug\net6.0\ArrayLecture.csproj.CoreCompileInputs.cache
+C:\Users\osabd\source\repos\ArrayLecture\ArrayLecture\obj\Debug\net6.0\ArrayLecture.dll
+C:\Users\osabd\source\repos\ArrayLecture\ArrayLecture\obj\Debug\net6.0\refint\ArrayLecture.dll
+C:\Users\osabd\source\repos\ArrayLecture\ArrayLecture\obj\Debug\net6.0\ArrayLecture.pdb
+C:\Users\osabd\source\repos\ArrayLecture\ArrayLecture\obj\Debug\net6.0\ArrayLecture.genruntimeconfig.cache
+C:\Users\osabd\source\repos\ArrayLecture\ArrayLecture\obj\Debug\net6.0\ref\ArrayLecture.dll
